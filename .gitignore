@@ -1,5 +1,7 @@
-#gradle directory
+#gradle directory and build directory
 .gradle
+build
+bin
 
 # Prerequisites
 *.d
