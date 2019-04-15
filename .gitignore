@@ -1,3 +1,6 @@
+#gradle directory
+.gradle
+
 # Prerequisites
 *.d
 
